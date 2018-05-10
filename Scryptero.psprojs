@@ -3,9 +3,10 @@
   <FileID>dea06d81-33d4-4e95-a834-a1fca7ee7b10</FileID>
   <OpenFolders />
   <OpenFiles>
+    <File>MainForm.psf</File>
     <File>Startup.pss</File>
     <File>Globals.ps1</File>
-    <File>MainForm.psf</File>
     <File>ChildForm.psf</File>
+    <File>SecmasterPasswordForm.psf</File>
   </OpenFiles>
 </ProjectState>
